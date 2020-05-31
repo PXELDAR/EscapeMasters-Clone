@@ -1,2 +1,2 @@
 # EscapeMasters-Clone
-Escape Masters Clone
+Escape Masters core gameplay mechanics
